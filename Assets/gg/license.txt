@@ -1,0 +1,11 @@
+Model Information:
+* title:	Valorant Chamber Card
+* source:	https://sketchfab.com/3d-models/valorant-chamber-card-470c47fc303743a38f3cde693c42dc10
+* author:	Shaurya_Jaiswal (https://sketchfab.com/jaiswalshaurya1310)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Valorant Chamber Card" (https://sketchfab.com/3d-models/valorant-chamber-card-470c47fc303743a38f3cde693c42dc10) by Shaurya_Jaiswal (https://sketchfab.com/jaiswalshaurya1310) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
